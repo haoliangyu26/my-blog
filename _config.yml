@@ -1,11 +1,11 @@
-title: Haoliang's blog
+title: Haoliang Yu's blog
 
 email: haoliangyu26@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Welcome to my blog site! This place is used to record my personal 
+  Welcome to my blog site! This place is used to document my personal 
   learning progress or, sometimes, for simple note-taking.
 
 github_username:  heliopan

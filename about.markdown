@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Greetings and welcome to my blog! My name is Haoliang Yu, and I am currently an R&D engineer at [Ansys](https://www.ansys.com/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I received my Ph.D. in Mechanical Engineering from the University of Texas at Dallas, and my research involves developing and applying multiphysics numerical methods to address interdisciplinary problems related to additive manufacturing (AM) and wind turbine aerodynamics.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+At work, I develop commercial physics-based simulation software for AM processes, including the DED extension in Ansys Mechanical and a thermal solver for the LPBF process in Ansys Additive.
 
+This blog serves as a place to document my personal learning progress or, sometimes, for simple note-taking. I hope you find something useful or interesting here.
 
-[jekyll-organization]: https://github.com/jekyll
+Feel free to explore my blog, leave comments, and connect with me.
