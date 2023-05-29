@@ -9,6 +9,9 @@ description: >
   in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 
+github_username:  heliopan
+# # linkedin_username: haoliang-yu-207096104
+
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://heliopan.github.io" 
 
@@ -30,9 +33,9 @@ minima:
 
   # Generate social links in footer.
   #
-  social_links:
-  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  # social_links:
+  #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
