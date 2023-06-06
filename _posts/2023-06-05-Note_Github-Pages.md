@@ -7,5 +7,11 @@ categories: jekyll update
 
 This is my notebook for Guthub Pages. 
 
+# Edit and see changes in live
 
+At root directory, `./my-blog`, in this case
+
+`$ bundle install`
+
+`$ bundle exec jekyll serve --livereload`
 
