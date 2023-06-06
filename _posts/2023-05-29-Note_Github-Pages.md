@@ -9,9 +9,12 @@ This is my notebook for Guthub Pages.
 
 # Edit and see changes in live
 
-At root directory, `./my-blog`, in this case
+At root directory `./my-blog` run the following command in terminal
 
-`$ bundle install`
+{% highlight ruby %}
+bundle exec jekyll serve --livereload
+{% endhighlight ruby %}
 
-`$ bundle exec jekyll serve --livereload`
+or {% highlight ruby %} bundle install {% endhighlight ruby %} first if it requires a rebuild. 
 
+Copy the address after `Server address`, for example, `http://127.0.0.1:4000/my-blog/` and paste it in browser.
